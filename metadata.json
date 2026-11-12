@@ -1,0 +1,6 @@
+{
+  "name": "ICU Insight – Mortality Prediction & Counterfactual Explainability",
+  "description": "Academic ICU mortality risk prediction and constraint-aware gradient-guided counterfactual explainability dashboard grounded in the WiDS Datathon 2020 study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
